@@ -2,7 +2,7 @@
 
 Pode me chamar de Caio Henrique, atualmente estudando em um Cursinho Pré-Vestibular e aprendendo JAVA pelo Curso da da FUNTEC
 
-- Gosto de tecnologia e estudar no tempo vago 🤔
+- Gosto de tecnologia e estudar no tempo vago 📚
 - Possuo afinidade em Java, HTML, CSS e Angular ☕
 - Atualmente estou focando em entrar em uma boa faculdade 🏫
 <!--
