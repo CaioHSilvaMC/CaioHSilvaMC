@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Pode me chamar de Caio Henrique, atualmente aprendendo JAVA pelo Curso da da FUNTEC
+Pode me chamar de Caio Henrique, atualmente estudando em um Cursinho Pré-Vestibular e aprendendo JAVA pelo Curso da da FUNTEC
 
 -
 -
