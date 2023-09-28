@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Pode me chamar de Caio Henrique, atualmente aprendendo JAVA graças aos cursos da FUNTEC
+
+-
+-
+-
 <!--
 **CaioHSilvaMC/CaioHSilvaMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
