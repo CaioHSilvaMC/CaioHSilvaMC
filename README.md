@@ -5,6 +5,7 @@ Pode me chamar de Caio Henrique, atualmente estudando em um Cursinho Pré-Vestib
 - Gosto de tecnologia e estudar no tempo vago 📚
 - Possuo afinidade com Java, HTML, CSS e Angular ☕
 - Atualmente estou focando em entrar em uma boa faculdade 🏫
+- Para contato, use o email caiohsilvamc@gmail.com ou o número de celular (16) 99735-7216
 <!--
 **CaioHSilvaMC/CaioHSilvaMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
